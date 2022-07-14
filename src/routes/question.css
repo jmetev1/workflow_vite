@@ -1,0 +1,26 @@
+.question {
+  font-size: x-large;
+}
+
+.parent {
+  display: flex;
+  height: 300px;
+  justify-content: space-around;
+}
+
+.child {
+  outline: 4px solid black;
+  flex: 1;
+  display: flex;
+}
+
+.icon {
+  /* width: 100px;
+  height: 100px; */
+  margin: auto;
+}
+
+.reply {
+  font-size: x-large;
+  text-align: center;
+}
